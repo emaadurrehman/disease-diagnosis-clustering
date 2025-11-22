@@ -219,9 +219,9 @@ disease-diagnosis-clustering/
 
 **Developer**: Emaad Ur Rehman  
 **Role**: Data Analyst @ Publicis Groupe  
-**LinkedIn**: [Your LinkedIn]  
-**GitHub**: [Your GitHub]  
-**Email**: [Your Email]
+**LinkedIn**: [[Emaad Ur Rehman](https://www.linkedin.com/in/emaad-ur-rehman/)]  
+**GitHub**: [[emaadurrehman](https://github.com/emaadurrehman)]  
+**Email**: [emaadrehman3010@gmail.com]
 
 ---
 
@@ -243,7 +243,7 @@ If you use this work or methodology, please cite:
 ```
 Emaad Ur Rehman (2022). Disease Diagnosis Clustering Analysis.
 IDM Challenge 3 - IBA Karachi.
-Available at: https://github.com/yourusername/disease-diagnosis-clustering
+Available at: https://github.com/emaadurrehman/disease-diagnosis-clustering
 ```
 
 ---
