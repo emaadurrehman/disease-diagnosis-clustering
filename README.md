@@ -196,7 +196,7 @@ The project includes:
 
 **Emaad Ur Rehman**  
 Data Analyst | Publicis Groupe  
-[LinkedIn](https://www.linkedin.com/in/emaad-ur-rehman) | [GitHub](https://github.com/emaadurrrehman)
+[LinkedIn](https://www.linkedin.com/in/emaad-ur-rehman) | [GitHub](https://github.com/emaadurrehman)
 
 ---
 
