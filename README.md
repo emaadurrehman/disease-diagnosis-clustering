@@ -134,16 +134,16 @@ disease-diagnosis-clustering/
 │   └── clustering_analysis.ipynb    # Main analysis notebook
 │
 ├── docs/
-│   ├── PROJECT_REPORT.md           # Detailed project documentation
-│   └── METHODOLOGY.md              # In-depth methodology explanation
+│   ├── PROJECT_REPORT.md            # Detailed project documentation
+│   └── METHODOLOGY.md               # In-depth methodology explanation
 │
 ├── images/
-│   └── kaggle_competition.png      # Competition screenshot
+│   └── kaggle_competition.png       # Competition screenshot
 │
 ├── results/
-│   └── model_performance.md        # Detailed results analysis
+│   └── model_performance.md         # Detailed results analysis
 │
-├── requirements.txt                 # Python dependencies
+├── PROJECT_SUMMARY.md               # Brief summary of the project
 └── README.md                        # This file
 ```
 
