@@ -125,7 +125,8 @@ ARI Score: 0.84145
 disease-diagnosis-clustering/
 │
 ├── data/
-│   └── README.md                    # Data source and description
+│   ├── README.md                    # Data source and description
+|   └── Data.csv                     # Dataset file
 │
 ├── notebooks/
 │   └── clustering_analysis.ipynb    # Main analysis notebook
