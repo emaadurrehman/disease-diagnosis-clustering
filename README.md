@@ -26,6 +26,7 @@ Partition patient symptom data into appropriate clusters where each cluster repr
 - **Features**: 133 symptom attributes (132 after preprocessing)
 - **Data Type**: Binary (0 = symptom absent, 1 = symptom present)
 - **Source**: IDM Challenge 3 - Kaggle Competition
+- **Files Included**: `data/Data.csv` and `data/sample_submission.csv`
 
 ### Sample Symptoms Analyzed
 - Itching, skin rash, nodal skin eruptions
@@ -125,8 +126,9 @@ ARI Score: 0.84145
 disease-diagnosis-clustering/
 │
 ├── data/
-│   ├── README.md                    # Data source and description
-|   └── Data.csv                     # Dataset file
+│   ├── Data.csv                     # Training dataset (2,784 patients)
+│   ├── sample_submission.csv        # Submission format template
+│   └── README.md                    # Data source and description
 │
 ├── notebooks/
 │   └── clustering_analysis.ipynb    # Main analysis notebook
